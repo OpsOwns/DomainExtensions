@@ -1,0 +1,12 @@
+D:\Projects\DomainExtensions\DomainExtensions\bin\Debug\net6.0\DomainExtensions.deps.json
+D:\Projects\DomainExtensions\DomainExtensions\bin\Debug\net6.0\DomainExtensions.dll
+D:\Projects\DomainExtensions\DomainExtensions\bin\Debug\net6.0\ref\DomainExtensions.dll
+D:\Projects\DomainExtensions\DomainExtensions\bin\Debug\net6.0\DomainExtensions.pdb
+D:\Projects\DomainExtensions\DomainExtensions\obj\Debug\net6.0\DomainExtensions.csproj.AssemblyReference.cache
+D:\Projects\DomainExtensions\DomainExtensions\obj\Debug\net6.0\DomainExtensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DomainExtensions\DomainExtensions\obj\Debug\net6.0\DomainExtensions.AssemblyInfoInputs.cache
+D:\Projects\DomainExtensions\DomainExtensions\obj\Debug\net6.0\DomainExtensions.AssemblyInfo.cs
+D:\Projects\DomainExtensions\DomainExtensions\obj\Debug\net6.0\DomainExtensions.csproj.CoreCompileInputs.cache
+D:\Projects\DomainExtensions\DomainExtensions\obj\Debug\net6.0\DomainExtensions.dll
+D:\Projects\DomainExtensions\DomainExtensions\obj\Debug\net6.0\ref\DomainExtensions.dll
+D:\Projects\DomainExtensions\DomainExtensions\obj\Debug\net6.0\DomainExtensions.pdb
